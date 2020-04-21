@@ -137,7 +137,7 @@ annotate(cs.aAxis,'labeled')
 %
 % If additionally to the proper and improper rotations also translations
 % are considered as symmetry operations the number of different symmetry
-% groups increases to 320. Those are exhaustivly described in the
+% groups increases to 230. Those are exhaustivly described in the
 % international table of crystallography. 
 %
 % MTEX currently does not support space groups. If the name of a space
